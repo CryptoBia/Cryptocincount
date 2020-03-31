@@ -44,7 +44,7 @@
     "json5": "^0.5.1",
     "jwks-rsa": "^1.2.0",
     "localforage": "^1.5.5",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "lodash.findwhere": "^3.1.0",
     "lz-string": "^1.4.4",
     "moment": "^2.20.1",
