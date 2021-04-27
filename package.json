@@ -75,7 +75,7 @@
     "react-redux": "^5.0.6",
     "react-router": "^4.1.2",
     "react-router-dom": "^4.1.2",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "redux": "^3.7.2",
     "redux-persist": "^4.10.1",
     "redux-persist-transform-compress": "^4.2.0",
