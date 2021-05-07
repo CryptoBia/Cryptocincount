@@ -85,7 +85,7 @@
     "style-loader": "0.18.2",
     "sw-precache-webpack-plugin": "0.11.4",
     "text-encoding-utf-8": "^1.0.1",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "url-loader": "0.5.9",
     "webpack": "2.6.1",
     "webpack-dev-server": "2.5.0",
